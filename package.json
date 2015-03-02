@@ -1,0 +1,21 @@
+{
+  "name": "censorify",
+  "version": "0.1.1",
+  "main": "censoritext",
+  "repository":{
+  	"type": "git",
+  	"url": "https://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
+  },
+  "keyword": [
+  	"censor",
+  	"words"
+  ],
+  "author": "jinsoo Park",
+  "description": "Censors words out of text",
+  "engines": {
+  	"node": "*"
+  },
+  "dependencies": {
+
+  }
+}
